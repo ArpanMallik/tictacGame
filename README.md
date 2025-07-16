@@ -17,7 +17,7 @@
    │
    ├── index.html 
    ├── style.css 
-   ├── script.js 
+   ├── app.js 
 
 ✍️ Author : 
   **Arpan Mallik**  
