@@ -8,7 +8,6 @@ A simple and interactive Tic Tac Toe (Noughts and Crosses) game built using **HT
 
 
 🛠️ Features
-
 - Interactive 3x3 grid with dynamic UI
 - Win detection logic for X and O
 - Draw detection
